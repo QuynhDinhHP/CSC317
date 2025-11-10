@@ -1,1 +1,5 @@
+# Ignore Mac Finder files
 .DS_Store
+
+# Ignore R history files anywhere in the repo
+*.Rhistory
