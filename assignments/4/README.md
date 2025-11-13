@@ -7,4 +7,4 @@ It supports arithmetic operations, keyboard input, themes, background switching,
 👉 https://quynhdinhhp.github.io/CSC317/assignments/4/calculator.html
 
 ### 🖼 Preview
-![Calculator Preview](assignments/4/images/preview.png)
+![Calculator Preview](images/preview.png)
