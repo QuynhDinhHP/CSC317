@@ -210,6 +210,13 @@ the skills.
   box-shadow: 0 15px 25px rgba(0,0,0,0.3);
 }
 
+.project-image {
+    display: flex;
+    justify-content: center;    /* center horizontally */
+    margin-bottom: 12px;         /* space under the image */
+}
+
+
 /*
 Approaching the Footer Section we wanted to make a simple box that
 stores it vertically using columns and provided an easy way to access
