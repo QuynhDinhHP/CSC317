@@ -5,11 +5,11 @@
 
 # 🔗 Git Links: 
 - **GitHub repository:**[CSC317 Repository](https://github.com/QuynhDinhHP/CSC317)
-- **Live GitHub Pages URL:** [Check out my Calculator](https://quynhdinhhp.github.io/CSC317/assignments/4/calculator.html)
+- **Live GitHub Pages URL:** [Check out my calculator](https://quynhdinhhp.github.io/CSC317/assignments/4/calculator.html)
 
 ---
 
-### 🧮 Description (≈150 words)
+### 🧮 Description
 This project is a web-based calculator that performs basic arithmetic operations (addition, subtraction, multiplication, division) and includes utility buttons such as clear (AC), percentage (%), and sign toggle (+/-).  
 The interface is responsive and supports multiple themes (dark, light, and glass) as well as background image options.  
 The JavaScript handles keyboard input, error detection (e.g., division by zero), and dynamic display updates.  
